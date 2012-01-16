@@ -7,8 +7,7 @@
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
-  <name>net-ipc-tools</name>
-  <url>http://maven.apache.org</url>
+  <name>net-proc-comm-tool</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -46,4 +45,5 @@
   		<scope>test</scope>
   	</dependency>
   </dependencies>
+  <url>https://github.com/ccorsi/net-proc-comm-tool</url>
 </project>
